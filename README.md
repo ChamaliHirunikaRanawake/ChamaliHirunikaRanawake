@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/chamali.hirunika.77?mibextid=ZbWKwL" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="dilusha priyashan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chamali.hirunika.77?mibextid=ZbWKwL" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="dilusha priyashan" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chamali-hirunika/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilushapriyashan" height="30" width="40" /></a>
 </p>
 
